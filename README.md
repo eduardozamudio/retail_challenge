@@ -47,3 +47,5 @@ The technology to solve this is up to you, we use Looker, ruby, python and Postg
 If something is not clear please ask for clarification. We are here to help you.
 
 As you might notice the email is hashed, that shouldn't be a problem, the emails are still unique and they can be treated as regular emails.
+
+Please download the [data](https://s3.amazonaws.com/mejuri-web/public/orders_report.csv)
