@@ -6,7 +6,7 @@ First of all, thanks for taking the time to take this tech challenge. We really 
 
 Mejuri is all about the customer journey, we are constantly questioning what we can improve and one valuable source the customer behavior. These are some of our recurrent questions.
 
-* Create a comprehensive way to show when a customer has its first purchase at the showroom (POS == true, you can see the column in the file I've attached below) and we are interested in knowing what is the behavior on the subsequent purchases. A chart an a table it would be useful.
+* Create a comprehensive way to show when a customer has its first purchase at the showroom (Purchase location == offline, you can see the column in the file I've attached below) and we are interested in knowing what is the behavior on the subsequent purchases (for example if the 2nd transaction happens online, and so on). A chart and a table it would be useful.
 * We want to know the LTV (lifetime value) by customer
 * We want to create a cohort to know the customers who first purchased a certain material (there's a column called material group name) and so on. For example:
 
@@ -26,7 +26,7 @@ Note: for instance, in the first row, 5000 (Q1) means 5000 customers bought gold
 
 Note: Feel free to show (besides the table) whatever chart/table you think can help us to understand better the cohort. If you don't know about the quarters: https://en.wikipedia.org/wiki/Calendar_year
 
-* What product has the highest speed of sale in a 5 minutes window? and when did it happen?
+* What product has the highest speed of sale in a 1 day window? and when did it happen?
 
 
 ### The Mejuri super bowl ##
