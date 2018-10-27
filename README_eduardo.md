@@ -1,6 +1,6 @@
 # Foreword
 
-Hi! Firts of all, thank you for givin me the chance to have this challenge. I really enjoy it. 
+Hi! First of all, thank you for givin me the chance to have this challenge. I really enjoy it. 
 
 You can find three jupyter notebooks within the *notebooks* folder.
 
@@ -14,6 +14,9 @@ You can find three jupyter notebooks within the *notebooks* folder.
 I have used jupyter notebooks with python kernels for this challenge. I think this is a very powerful tool to describe this kind of processes.
 
 ### Environment
+
+You can access to a running environment of jupyter notebooks through **http://zamuvps.ddns.net:8888** (password: mejuri)
+
 
 You can install package required to run this notebooks with:
 `pip install -r requirements.txt`
