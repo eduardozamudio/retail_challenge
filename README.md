@@ -40,7 +40,7 @@ I have tried to keep a consistent structure for every notebook, including:
 
 ## Conclusions
 
-In particular, for 'The future' section of the challenge, I think that further analysis sections within notebooks obey o this end and can be resumed as follows:
+In particular, for 'The future' section of the challenge, I think that further analysis sections within notebooks obey to this end and can be resumed as follows:
 
 * Multidimensional data structures, such as OLAP cubes and [datamarts](https://en.wikipedia.org/wiki/Data_mart) can be very helpful to empower non technical users
 * Despite of the ad-hoc data preprocessing sections developed for this challenge, they must be defined as standarized [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) processes.
