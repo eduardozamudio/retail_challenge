@@ -20,7 +20,7 @@ You can access to a running environment of jupyter notebooks through **http://za
 
 Otherwise, you can use this notebooks on your own jupyter environment.
 
-You should install package required to run this notebooks with:
+You should install the required packages with:
 `pip install -r requirements.txt`
 
 It is recommended to use a [virtual environment](https://virtualenv.pypa.io/en/latest/)
