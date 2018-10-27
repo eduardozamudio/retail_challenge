@@ -31,7 +31,7 @@ Remember to save a copy of the [dataset](https://s3.amazonaws.com/mejuri-web/pub
 ### Notebooks structure
 
 I have tried to keep a consistent structure for every notebook, including: 
-answer 
+ 
 1. Introduction
 2. Data preprocessing
 3. Development
